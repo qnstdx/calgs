@@ -1,1 +1,1 @@
-# Algorithms (C) 🤖.
+# calgs
